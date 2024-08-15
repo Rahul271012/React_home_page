@@ -1,1 +1,5 @@
-# React_home_page_go
+<<<<<<< HEAD
+Your changes
+=======
+Remote changes
+>>>>>>> main
